@@ -217,3 +217,11 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 llm_env/
+
+# DistilBERT training outputs and checkpoints
+distilbert_experiment_1/
+distilbert_experiment_2/
+distilbert_experiment_3/
+
+# Generic Hugging Face checkpoints
+checkpoint-*/
